@@ -1,0 +1,11 @@
+Q. What new skills have you learned?
+
+A. I have learned use some of the HTML elements, add images and url to the HTML pages.
+
+Q. What has been easy?
+
+A. sometimes it will and sometimes it not. But at first for me it is difficult but Udacity’s review helps me a lot to gain confidence.  
+
+Q. How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+A. Using MDN, surfing internet and taking notes when notes and videos that Udacity has provides.
