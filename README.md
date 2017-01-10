@@ -1,1 +1,1 @@
-# Human_vs_mechine
+# Human_vs_machine
